@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatricsCode
+- 👋 Hi, I’m @MatrixCode
 - 👀 I’m interested in *INTERESTS*
 - 🌱 I’m currently learning *THING WHICH MAKES ME SOUND SMART*
 - 💞️ I’m looking to collaborate on *GMTK GAME JAM*
