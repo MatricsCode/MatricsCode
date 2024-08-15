@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MatricsCode
+- 👀 I’m interested in *INTERESTS*
+- 🌱 I’m currently learning *THING WHICH MAKES ME SOUND SMART*
+- 💞️ I’m looking to collaborate on *GMTK GAME JAM*
+- 📫 How to reach me *CONTACT INFORMATION HERE*
+- 😄 Pronouns: ...
+- ⚡ Fun fact: *INSERT FUN FACT ABOUT CODE*
